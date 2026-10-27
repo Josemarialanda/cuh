@@ -198,7 +198,7 @@ The prompt shows respect over your last 20 lines. After the first few lines, dro
 
 ## Examples
 
-See `examples/`. Each `.cuh` file has a matching `.out` file with its exact output, and the test suite checks every one.
+See `examples/`. Start with `cookout.cuh`, where the crew splits a cookout bill, big mike eats all the wings, and the interpreter sulks about it. Each `.cuh` file has a matching `.out` file with its exact output, and the test suite checks every one.
 
 ## Layout
 
